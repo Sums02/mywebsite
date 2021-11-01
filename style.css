@@ -1,0 +1,30 @@
+h1{
+  color:#006080;
+
+}
+
+h2{
+  color:#0099cc;
+}
+
+main{
+  text-align: center;
+}
+
+table, th, td{
+  border:1px;
+  width:50%;
+  text-align: left;
+}
+
+header{
+  text-align: left;
+}
+
+input{
+  background-color: #DCDCDC;
+  border:none;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
